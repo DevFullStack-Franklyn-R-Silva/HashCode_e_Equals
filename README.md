@@ -26,7 +26,7 @@ System.out.println(b.hashCode());
 ## Regra de ouro do HashCode
 * Se o hashCode de dois objetos for diferente, então os dois objetos são diferentes.
 <p align="center">
-    <img align="center" alt="regra" src="regra.png" width="600" height="400" />
+    <img align="center" alt="regra" src="regra.png" width="600" height="100" />
 </p>
 
 
