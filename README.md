@@ -25,7 +25,11 @@ System.out.println(b.hashCode());
 ```
 ## Regra de ouro do HashCode
 * Se o hashCode de dois objetos for diferente, então os dois objetos são diferentes.
-* 
+<p align="center">
+    <img align="center" alt="regra" src="regra.png" width="600" height="400" />
+</p>
+
+
 * • Se o código de dois objetos for igual, muito provavelmente os objetos são iguais (pode haver colisão).
 
 ## HashCode e Equals personalizados
