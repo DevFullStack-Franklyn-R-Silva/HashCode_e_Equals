@@ -30,7 +30,7 @@ System.out.println(b.hashCode());
 </p>
 
 
-* • Se o código de dois objetos for igual, muito provavelmente os objetos são iguais (pode haver colisão).
+* Se o código de dois objetos for igual, muito provavelmente os objetos são iguais (pode haver colisão).
 
 ## HashCode e Equals personalizados
 ```java
